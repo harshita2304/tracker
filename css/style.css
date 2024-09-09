@@ -1,0 +1,25 @@
+table,
+th,
+tr,
+td,
+caption {
+  border: 5px solid black;
+  font-family: "Courier New", Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
+
+.nonnegotiable {
+  background-color: red;
+}
+
+.content {
+  background-color: pink;
+}
+
+th {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.5;
+  text-align: center;
+}
